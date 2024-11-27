@@ -1,0 +1,105 @@
+﻿ID;Name;Firstname;Lastname;Gender;Subject;Marks
+11a-0;"Ének Ottó";Ottó;Ének;M;math;5,1
+11a-0;"Ének Ottó";Ottó;Ének;M;history;2,4
+11a-0;"Ének Ottó";Ottó;Ének;M;biology;4,2,5,4
+11a-0;"Ének Ottó";Ottó;Ének;M;chemistry;1,3,2
+11a-0;"Ének Ottó";Ottó;Ének;M;physics;4
+11a-0;"Ének Ottó";Ottó;Ének;M;informatics;4,3,4,5
+11a-0;"Ének Ottó";Ottó;Ének;M;alchemy;"nincs jegy"
+11a-0;"Ének Ottó";Ottó;Ének;M;astrology;4,5
+11a-1;"Fekete Mónika";Mónika;Fekete;F;math;3,2
+11a-1;"Fekete Mónika";Mónika;Fekete;F;history;5,2,3,2
+11a-1;"Fekete Mónika";Mónika;Fekete;F;biology;"nincs jegy"
+11a-1;"Fekete Mónika";Mónika;Fekete;F;chemistry;5,5
+11a-1;"Fekete Mónika";Mónika;Fekete;F;physics;4
+11a-1;"Fekete Mónika";Mónika;Fekete;F;informatics;4
+11a-1;"Fekete Mónika";Mónika;Fekete;F;alchemy;2,4,5
+11a-1;"Fekete Mónika";Mónika;Fekete;F;astrology;3,1,4,1
+11a-2;"Kasza Ella";Ella;Kasza;F;math;3,2
+11a-2;"Kasza Ella";Ella;Kasza;F;history;1,1
+11a-2;"Kasza Ella";Ella;Kasza;F;biology;3,2,5,1,3
+11a-2;"Kasza Ella";Ella;Kasza;F;chemistry;2,4
+11a-2;"Kasza Ella";Ella;Kasza;F;physics;1
+11a-2;"Kasza Ella";Ella;Kasza;F;informatics;2,5,4
+11a-2;"Kasza Ella";Ella;Kasza;F;alchemy;2,3,2
+11a-2;"Kasza Ella";Ella;Kasza;F;astrology;5,2,4,4,4
+11a-3;"Békés Emma";Emma;Békés;F;math;4,4,5,3,4
+11a-3;"Békés Emma";Emma;Békés;F;history;5,2,3,3
+11a-3;"Békés Emma";Emma;Békés;F;biology;5,3
+11a-3;"Békés Emma";Emma;Békés;F;chemistry;2,3,4,5
+11a-3;"Békés Emma";Emma;Békés;F;physics;3
+11a-3;"Békés Emma";Emma;Békés;F;informatics;3,5,5
+11a-3;"Békés Emma";Emma;Békés;F;alchemy;1,4,5,1
+11a-3;"Békés Emma";Emma;Békés;F;astrology;5,3
+11a-4;"Víz Pál";Pál;Víz;M;math;5,1,3
+11a-4;"Víz Pál";Pál;Víz;M;history;3,4
+11a-4;"Víz Pál";Pál;Víz;M;biology;3,4
+11a-4;"Víz Pál";Pál;Víz;M;chemistry;3
+11a-4;"Víz Pál";Pál;Víz;M;physics;3,4
+11a-4;"Víz Pál";Pál;Víz;M;informatics;4
+11a-4;"Víz Pál";Pál;Víz;M;alchemy;1,5,2,4,5
+11a-4;"Víz Pál";Pál;Víz;M;astrology;"nincs jegy"
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;math;"nincs jegy"
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;history;"nincs jegy"
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;biology;5,5,1,4
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;chemistry;"nincs jegy"
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;physics;2,3,5,2,3
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;informatics;4,3
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;alchemy;2,1
+11a-5;"Kandisz Nóra";Nóra;Kandisz;F;astrology;1,4,4,1,3
+11a-6;"Budipa Elemér";Elemér;Budipa;M;math;"nincs jegy"
+11a-6;"Budipa Elemér";Elemér;Budipa;M;history;1,2,1,5
+11a-6;"Budipa Elemér";Elemér;Budipa;M;biology;4,1
+11a-6;"Budipa Elemér";Elemér;Budipa;M;chemistry;1
+11a-6;"Budipa Elemér";Elemér;Budipa;M;physics;5,5,1,5,5
+11a-6;"Budipa Elemér";Elemér;Budipa;M;informatics;1,2,1,1
+11a-6;"Budipa Elemér";Elemér;Budipa;M;alchemy;1,4,2
+11a-6;"Budipa Elemér";Elemér;Budipa;M;astrology;5,1,1,2
+11a-7;"Bor Virág";Virág;Bor;F;math;2,3,5
+11a-7;"Bor Virág";Virág;Bor;F;history;2,2,2,2,4
+11a-7;"Bor Virág";Virág;Bor;F;biology;3,1
+11a-7;"Bor Virág";Virág;Bor;F;chemistry;1,4,3,1,2
+11a-7;"Bor Virág";Virág;Bor;F;physics;4,2
+11a-7;"Bor Virág";Virág;Bor;F;informatics;2
+11a-7;"Bor Virág";Virág;Bor;F;alchemy;3,2,3,3,2
+11a-7;"Bor Virág";Virág;Bor;F;astrology;"nincs jegy"
+11a-8;"Fejet Csaba";Csaba;Fejet;M;math;2,3,4,4,1
+11a-8;"Fejet Csaba";Csaba;Fejet;M;history;5,5,2,2
+11a-8;"Fejet Csaba";Csaba;Fejet;M;biology;4,5,1,5,2
+11a-8;"Fejet Csaba";Csaba;Fejet;M;chemistry;1,4,3
+11a-8;"Fejet Csaba";Csaba;Fejet;M;physics;4,3
+11a-8;"Fejet Csaba";Csaba;Fejet;M;informatics;2
+11a-8;"Fejet Csaba";Csaba;Fejet;M;alchemy;2,2,4,5,1
+11a-8;"Fejet Csaba";Csaba;Fejet;M;astrology;4,2,5
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;math;1,2,5,2
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;history;"nincs jegy"
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;biology;4,3,2
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;chemistry;3
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;physics;"nincs jegy"
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;informatics;5,1,2,5
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;alchemy;1,4,2,1,3
+11a-9;"Szalmon Elemér";Elemér;Szalmon;M;astrology;5,2,5,4
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;math;1,5,4,4
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;history;5
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;biology;1
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;chemistry;4
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;physics;2
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;informatics;4
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;alchemy;5,5,1,4
+11a-10;"Bármi Szilárd";Szilárd;Bármi;M;astrology;"nincs jegy"
+11a-11;"Harm Kálmán";Kálmán;Harm;M;math;4
+11a-11;"Harm Kálmán";Kálmán;Harm;M;history;4,1,4,4
+11a-11;"Harm Kálmán";Kálmán;Harm;M;biology;3,5,1,5,4
+11a-11;"Harm Kálmán";Kálmán;Harm;M;chemistry;2,5
+11a-11;"Harm Kálmán";Kálmán;Harm;M;physics;4
+11a-11;"Harm Kálmán";Kálmán;Harm;M;informatics;4,2
+11a-11;"Harm Kálmán";Kálmán;Harm;M;alchemy;1
+11a-11;"Harm Kálmán";Kálmán;Harm;M;astrology;5
+11a-12;"Bor Dóra";Dóra;Bor;F;math;"nincs jegy"
+11a-12;"Bor Dóra";Dóra;Bor;F;history;3,1,3,3
+11a-12;"Bor Dóra";Dóra;Bor;F;biology;3,3
+11a-12;"Bor Dóra";Dóra;Bor;F;chemistry;2,5
+11a-12;"Bor Dóra";Dóra;Bor;F;physics;2,5
+11a-12;"Bor Dóra";Dóra;Bor;F;informatics;5,1,3
+11a-12;"Bor Dóra";Dóra;Bor;F;alchemy;4,4,1,3,2
+11a-12;"Bor Dóra";Dóra;Bor;F;astrology;2,5,4,5,4
